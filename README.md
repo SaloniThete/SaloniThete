@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaloniThete
 - 👀 I’m interested in Data Science and Business Analytics
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ML Projects
 - 📫 How to reach me: Email-Saloni662001@gmail.com
                       LinkedIn: https://www.linkedin.com/in/saloni-t-2386371b2/
 
