@@ -22,10 +22,10 @@ Languages and Tools
 </div>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaloniThete&show_icons=true&theme=radical)        ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaloniThete&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaloniThete&show_icons=true&theme=radical)        
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaloniThete&theme=radical)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 
 
