@@ -22,8 +22,7 @@ Languages and Tools
 </div>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaloniThete&show_icons=true&theme=radical)        
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaloniThete&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaloniThete&show_icons=true&theme=radical)        ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaloniThete&theme=radical)
 
 
 
