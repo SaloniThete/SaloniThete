@@ -6,9 +6,8 @@
                       LinkedIn: [https://www.linkedin.com/in/salonithete/]
 
 <img src="https://komarev.com/ghpvc/?username=SaloniThete&style=flat-square&color=blue" alt=""/>
-
-Languages and Tools
-
+<br><br>
+**Languages and Tools**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -21,7 +20,7 @@ Languages and Tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
+<br><br>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=SaloniThete&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
