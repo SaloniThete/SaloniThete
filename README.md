@@ -23,7 +23,7 @@ Languages and Tools
 
 
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=SaloniThete&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaloniThete&theme=radical" alt="GitHub Streak" height="180px"/>
