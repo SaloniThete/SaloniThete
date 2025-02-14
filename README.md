@@ -1,3 +1,7 @@
+
+
+<img src="https://komarev.com/ghpvc/?username=SaloniThete&style=flat-square&color=blue" alt=""/>
+
 - 👋 Hi, I’m @SaloniThete
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Frontend
@@ -5,7 +9,6 @@
 - 📫 How to reach me: Email-Saloni662001@gmail.com
                       LinkedIn: [https://www.linkedin.com/in/salonithete/]
 
-<img src="https://komarev.com/ghpvc/?username=SaloniThete&style=flat-square&color=blue" alt=""/>
 <br><be>
 **Languages and Tools**
 
