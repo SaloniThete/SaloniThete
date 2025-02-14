@@ -7,7 +7,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=SaloniThete&style=flat-square&color=blue" alt=""/>
 <br><br>
-## 🚀 **Languages and Tools**
+## **Languages and Tools**
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
